@@ -1,8 +1,8 @@
 ## About my experience
-🔭 I’m currently working on Reac Js and Node js
-🌱 I’m currently learning AWS and Docker
-👯 I’m looking to collaborate on project as Maquillate, VXN
-🤔 I’m looking for help with finding a new job
+🔭 I’m currently working on Reac Js and Node js.
+🌱 I’m currently learning AWS and Docker.
+👯 I’m looking to collaborate on project as Maquillate, VXN.
+🤔 I’m looking for help with finding a new job.
 
 ## About my skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
