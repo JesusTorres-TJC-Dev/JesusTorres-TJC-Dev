@@ -1,5 +1,5 @@
 ## About my experience
-🔭 I’m currently working on Reac Js and Node js.
+🔭 I’m currently working on Reactjs and Nodejs.
 🌱 I’m currently learning AWS and Docker.
 👯 I’m looking to collaborate on project as Maquillate, VXN.
 🤔 I’m looking for help with finding a new job.
